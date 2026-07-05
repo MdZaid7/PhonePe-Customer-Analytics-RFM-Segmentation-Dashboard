@@ -118,7 +118,7 @@ Designed three interactive dashboards:
 
 ### Customer Insight
 
-[Customer_Insight](https://github.com/MdZaid7/PhonePe-Customer-Analytics-RFM-Segmentation-Dashboard/blob/main/Customer%20Segmentation.png))
+[Customer_Insight](https://github.com/MdZaid7/PhonePe-Customer-Analytics-RFM-Segmentation-Dashboard/blob/main/Customer%20Segmentation.png)
 
 ### Transaction Insight
 
