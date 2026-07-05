@@ -122,7 +122,7 @@ Designed three interactive dashboards:
 
 ### Transaction Insight
 
-![Transaction Insight](Transaction_Insight.png)
+[Transaction Insight](https://github.com/MdZaid7/PhonePe-Customer-Analytics-RFM-Segmentation-Dashboard/blob/main/Transaction%20Insight.png)
 
 ### Customer Segmentation
 
